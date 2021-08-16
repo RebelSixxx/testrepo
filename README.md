@@ -1,2 +1,2 @@
 # testrepo
-Repo for testinf Github
+Repo for testing Github
